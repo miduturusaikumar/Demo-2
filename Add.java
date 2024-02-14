@@ -5,9 +5,9 @@ public class Add {
         // Create a Scanner object to read input from the console
         Scanner scanner = new Scanner(System.in);
 
-        int number1=10;
-        int  number2=22;
-        int sum=number1+number2;
-        System.out.println("The sum of " + number1 + " and " + number2 + " is: " + sum);
+        int n1=10;
+        int  n2=22;
+        int sum=n1+n2;
+        System.out.println("The sum of " + n1 + " and " + n2 + " is: " + sum);
     }
 }
